@@ -1,4 +1,4 @@
-#!/usr/env python3 #
+#!/usr/bin/python3
 # -*- encoding: utf-8 -*-
 # Graficas de los pulsos en los canales adquiridos.
 # Los archivos a analizar pueden tener la extensión .dat o .bz2
